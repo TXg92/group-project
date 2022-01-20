@@ -9,7 +9,7 @@ body {
 }
 header {
     background: linear-gradient(to bottom right, rgb(92, 149, 235), #333);
-    color: white;
+    color: rgb(241, 7, 7);
     padding: 25px;
 }
 header h1 {
@@ -26,17 +26,17 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: rgb(232, 116, 9);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
+    color: rgb(4, 3, 3);
     background-color: lightblue;
     padding: 3px;
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+    background:rgb(235, 101, 92);
 }
